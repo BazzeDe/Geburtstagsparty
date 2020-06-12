@@ -1,3 +1,5 @@
 Geld
 Auto
 Haus
+Pool
+Motorrad
