@@ -1,5 +1,5 @@
 Überraschungslied
 Hallo Julia
-Schlechtes Lied 1
-Schlechtes Lied 2
-Schlechtes Lied 3
+Gutes Lied 1
+Gutes Lied 2
+Gutes Lied 3
