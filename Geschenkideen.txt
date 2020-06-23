@@ -3,3 +3,6 @@ Auto
 Haus
 Pool
 Motorrad
+Kühlschrank
+Computer
+Schnitzel
