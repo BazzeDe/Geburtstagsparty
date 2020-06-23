@@ -3,4 +3,6 @@ Auto
 Haus
 Pool
 Motorrad
-Fehler
+Kühlschrank
+Computer
+Schnitzel
